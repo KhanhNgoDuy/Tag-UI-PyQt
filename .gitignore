@@ -1,0 +1,7 @@
+*.jpg
+
+.idea/
+
+test.py
+test_ui.py
+plot_pyqt.py
