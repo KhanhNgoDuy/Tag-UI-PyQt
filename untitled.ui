@@ -175,6 +175,13 @@ border-color: rgb(0, 0, 0);</string>
             </property>
            </widget>
           </item>
+          <item>
+           <widget class="QPushButton" name="button_delete">
+            <property name="text">
+             <string>Delete</string>
+            </property>
+           </widget>
+          </item>
          </layout>
         </widget>
        </item>
